@@ -5,3 +5,4 @@
 1. **docs** - Oruga documentation
 2. **examples** - Oruga components example bundle
 3. **oruga** - Main source code for Oruga
+4. **oruga-web** - Compiled oruga to web components
